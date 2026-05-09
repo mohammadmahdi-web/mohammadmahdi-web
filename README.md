@@ -1,10 +1,15 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=Ai" height="40" alt="ai logo" />
+
+  <!-- AI Agent badge -->
+  <img src="https://img.shields.io/badge/AI-Agent-0A66C2?style=for-the-badge&logo=openai&logoColor=white" height="28" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=N8N" height="40" alt="n8n logo" />
+
+  <!-- n8n official logo -->
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
@@ -14,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
-  
 </div>
 
 <!--
