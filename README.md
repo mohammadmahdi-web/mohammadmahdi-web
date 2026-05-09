@@ -1,9 +1,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
-
-  <img src="https://img.shields.io/badge/AI-Expert-111827?style=for-the-badge&logo=openai&logoColor=white" height="28" />
-  <img width="12" />
   
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo" />
   <img width="12" />
@@ -21,7 +18,8 @@
 
 <!--
 **mohammadmahdi-web/mohammadmahdi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  <img src="https://img.shields.io/badge/AI-Expert-111827?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+  <img width="12" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
