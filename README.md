@@ -1,4 +1,16 @@
-## Hi there 👋
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
+</div>
 
 <!--
 **mohammadmahdi-web/mohammadmahdi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
