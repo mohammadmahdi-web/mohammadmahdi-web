@@ -2,11 +2,9 @@
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
 
-  <!-- AI Agent badge -->
-  <img src="https://img.shields.io/badge/AI-Agent-0A66C2?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AI-Expert-111827?style=for-the-badge&logo=openai&logoColor=white" height="28" />
   <img width="12" />
-
-  <!-- n8n official logo -->
+  
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo" />
   <img width="12" />
 
