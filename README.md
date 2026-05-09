@@ -1,9 +1,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" />
+  <img src="https://skillicons.dev/icons?i=Ai" height="40" alt="ai logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="n8n logo" />
+  <img src="https://skillicons.dev/icons?i=N8N" height="40" alt="n8n logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
